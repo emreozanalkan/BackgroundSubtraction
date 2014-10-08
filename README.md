@@ -22,4 +22,4 @@ Requirements
 
 License
 ============
-KohonenNetwork using [the MIT license](LICENSE).
+BackgroundSubtraction using [the MIT license](LICENSE).
