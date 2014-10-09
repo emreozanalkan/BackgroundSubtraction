@@ -12,6 +12,8 @@ Tracking a Moving Object I: Background Subtraction
 
 [Lab Paper](background_subtraction_lab.pdf)
 
+[My Report](Report/BacgroundSubtractionReport.pdf)
+
 Authors
 =======
 - **Emre Ozan Alkan**
